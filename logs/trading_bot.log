@@ -1,0 +1,10 @@
+2026-03-13 12:40:39,747 | INFO | REQUEST: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-13 12:40:39,747 | ERROR | NETWORK / UNKNOWN ERROR: API Secret required for private endpoints
+2026-03-13 13:04:35,008 | INFO | REQUEST: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.02, 'price': 1.01, 'timeInForce': 'GTC'}
+2026-03-13 13:04:35,503 | ERROR | BINANCE API ERROR: APIError(code=-2014): API-key format invalid.
+2026-03-13 14:29:19,829 | INFO | REQUEST: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-13 14:29:20,673 | ERROR | BINANCE API ERROR: APIError(code=-2014): API-key format invalid.
+2026-03-13 14:42:19,740 | INFO | REQUEST: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-13 14:42:20,500 | ERROR | BINANCE API ERROR: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-13 14:44:23,878 | INFO | REQUEST: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-13 14:44:24,679 | ERROR | BINANCE API ERROR: APIError(code=-2015): Invalid API-key, IP, or permissions for action
